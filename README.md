@@ -31,6 +31,8 @@ Before starting, make sure you have the following installed:
    cd admin-dashboard
 Install dependencies:
 
+npm install
+
 bash
 Copy
 Edit
