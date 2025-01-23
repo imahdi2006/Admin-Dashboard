@@ -30,9 +30,9 @@ Before starting, make sure you have the following installed:
    git clone https://github.com/imahdi2006/admin-dashboard.git
    cd admin-dashboard
 Install dependencies:
-
+```
 npm install
-
+```
 bash
 Copy
 Edit
