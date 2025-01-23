@@ -33,19 +33,10 @@ Install dependencies:
 ```
 npm install
 ```
-bash
-Copy
-Edit
-npm install
 Start the development server:
 
-bash
-Copy
-Edit
+```
 npm run dev
-Open the app in your browser at:
 
-arduino
-Copy
-Edit
-http://localhost:3000
+```
+
